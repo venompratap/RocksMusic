@@ -114,3 +114,6 @@ if SUPPORT_GROUP:
         raise SystemExit(
             "[ERROR] - Your SUPPORT_GROUP url is wrong. Please ensure that it starts with https://"
         )
+
+YT_API_URL = getenv("YT_API_URL", 'https://api.thequickearn.xyz')
+YT_API_KEY = getenv("YT_API_KEY")
