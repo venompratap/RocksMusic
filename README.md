@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
+<h1 align="center">🎵 Venom Music Bot 🎵</h1>
 
 <p align="center">
   <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
@@ -91,7 +91,8 @@ You can now generate and manage your API keys through our official dashboard —
 ---
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/AviaxMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/venompower/Rockstar)
+
 
 ---
 
