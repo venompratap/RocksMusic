@@ -1,14 +1,14 @@
-<h1 align="center">🎵 Venom Music BOT 🎵</h1>
+<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/e3b45a0dcd554d1ca9043.jpg" alt="venom music Logo" width="600" height="150">
-</pl
+  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/qnxanjali/venommusic?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/qnxanjali/venommusic?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/qnxanjali/venommusic?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/qnxanjali/venommusic?style=for-the-badge&color=green" alt="GitHub license">
+  <img src="https://img.shields.io/github/stars/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub forks">
+  <img src="https://img.shields.io/github/issues/TeamAviax/AviaxMusic?style=for-the-badge&color=red" alt="GitHub issues">
+  <img src="https://img.shields.io/github/license/TeamAviax/AviaxMusic?style=for-the-badge&color=green" alt="GitHub license">
 </p>
 
 <h2 align="center">Delivering Superior Music Experience to Telegram</h2>
@@ -19,13 +19,63 @@
 
 Due to YouTube blocking VPS IPs drastically, we have implemented a fix. Follow the steps below:
 
-1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/VenomPratapChat) to get the necessary script.
+1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/NexGenSpam) to get the necessary script.
 2. **Run the Script**: Run the downloaded script on your Windows Desktop Through VS Code or any other Software to generate cookies.
 3. **Fork the Repository**: Fork this repository to your GitHub account.
 4. **Add Cookies**: Paste the generated cookies into the `cookies` folder in your forked repository.
 5. **Deploy the Bot**: Continue with the setup instructions as outlined above.
 
 This process will allow you to bypass the YouTube restrictions and ensure smooth operation of the bot.
+
+---
+
+## 🎵 Using the API for Audio Streaming
+
+If you do not want to deal with YouTube restrictions, you can rely on our API for audio streaming. The API allows you to fetch audio directly without needing cookies, making the process simpler and more reliable.
+
+---
+
+### 🔑 How to Get an API Key
+
+You can now generate and manage your API keys through our official dashboard — no more Telegram DMs required!
+
+[![API Dashboard](https://img.shields.io/badge/Visit-Dashboard-black?style=for-the-badge&logo=vercel)](https://panel.thequickearn.xyz)
+[![API Community](https://img.shields.io/badge/Join-API%20Community-green?style=for-the-badge&logo=telegram)](https://t.me/+DXGe6UE90y01NDVl)
+[![Contact Rahul](https://img.shields.io/badge/DM-@RahulTC-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/ItzRahul)
+
+#### 🛠️ Steps to Get Started:
+
+1. **Sign Up**: Visit the dashboard and create an account with your email.
+2. **Free Plan**: All new users receive a **Free Plan** with:
+   - 🔁 1,000 daily requests
+   - 🗓️ Valid for 30 days
+3. **Upgrade Plans**: Choose a higher daily limit plan below (INR ₹ / month):
+
+| Plan Name          | Daily Requests | Monthly Price  |
+|--------------------|----------------|----------------|
+| Free Plan          | 1,000          | ₹0             |
+| Basic Plan         | 5,000          | ₹50            |
+| Standard Plan      | 10,000         | ₹50            |
+| Pro Plan           | 15,000         | ₹75            |
+| Entriprise Plan    | 20,000         | ₹100           |
+| Mega Plan          | 50,000         | ₹250           |
+
+4. **Billing & Renewal**:
+   - Manage everything through the dashboard
+   - Extend key validity or upgrade instantly
+5. **Integration**:
+   - Copy your API key and add it to your `.env` or config file:
+     ```env
+     API_KEY=your-api-key-here
+     ```
+
+---
+
+### 📌 Important Notes About API Usage
+
+- 🔄 **Daily Reset**: Request limits reset at midnight (IST) every day.
+- 🎵 **Audio-Only API**: Video support requires cookies (see YouTube section above).
+- 💬 **Community Support**: For API-specific help, join the [API Community Group](https://t.me/+DXGe6UE90y01NDVl)
 
 ---
 
@@ -41,7 +91,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
 ---
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/venompower/Rockstar)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/AviaxMusic)
 
 ---
 
@@ -108,7 +158,7 @@ The Aviax Music Bot offers a range of commands to enhance your music listening e
 | `/stop`                 | Stop the bot and clear the queue.           |
 | `/queue`                | Display the list of songs in the queue.     |
 
-For a full list of commands, use `/help` in [telegram](https://t.me/AlishaMusix_Bot).
+For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBot).
 
 ---
 
@@ -117,10 +167,10 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AlishaMusix_
 Stay updated with the latest features and improvements to Aviax Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/venompratap">
+  <a href="https://telegram.me/NexGenSpam">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/venompratapchat">
+  <a href="https://telegram.me/NexGenSpam">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
