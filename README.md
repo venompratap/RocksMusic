@@ -100,9 +100,11 @@ env
 
 
 ---
-<h2 align="center">
-  🚀 <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">Deploy on VPS Commands</span> 🖥️
+<h2 align="center" style="color: #1E90FF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  🚀 Deploy on VPS Commands
 </h2>
+<hr style="border: 1px solid #1E90FF; width: 60%;">
+
 
 ### 🔧 Quick Setup
 
