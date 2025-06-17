@@ -75,7 +75,7 @@ You can now generate and manage your API keys through our official dashboard —
 
 - 🔄 **Daily Reset**: Request limits reset at midnight (IST) every day.
 - 🎵 **Audio-Only API**: Video support requires cookies (see YouTube section above).
-- 💬 **Community Support**: For API-specific help, join the [API Community Group](https://t.me/+DXGe6UE90y01NDVl)
+- 💬 **Community Support**: For API-specific help, join the [API Community Group](https://t.me/venompratapchat)
 
 ---
 
@@ -91,7 +91,7 @@ You can now generate and manage your API keys through our official dashboard —
 ---
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/venompower/xxx)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/venompratap/VenomMusic)
 
 
 ---
@@ -168,10 +168,10 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBo
 Stay updated with the latest features and improvements to Aviax Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/NexGenSpam">
+  <a href="https://telegram.me/Venompratap">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/NexGenSpam">
+  <a href="https://telegram.me/venompratap_chat">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -201,5 +201,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Thanks to all the contributors, supporters, and users of the Aviax Music Bot. Your feedback and support keep us going!
-- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For their Source Codes.
-- **Special Thanks** to [SPiDER 🇮🇳](https://github.com/Surendra9123) for invaluable assistance in resolving the IP ban issue.
+- [Venom Music Bot](https://github.com/TeamYukki/Venomumusicbot) and [VenomMusic](https://github.com/Venompratap/Venommusic) For their Source Codes.
+- for invaluable assistance in resolving the IP ban issue.
