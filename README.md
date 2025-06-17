@@ -15,7 +15,7 @@
 
 ---
 
-[![Cheapest Web Hosting](https://img.shields.io/badge/Cheapest%20Web%20Hosting-black?style=for-the-badge&logo=vercel)](https://venomhost.in/)
+[![Cheapest Web Hosting](https://img.shields.io/badge/Cheapest%20Web%20Hosting-black?style=for-the-badge&logo=server)](https://venomhost.in/)
 [![Contact Owner](https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/venom_pratap)
 
 ---
