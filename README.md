@@ -51,14 +51,9 @@ You can now generate and manage your API keys through our official dashboard —
    - 🗓️ Valid for 30 days
 3. **Upgrade Plans**: Choose a higher daily limit plan below (INR ₹ / month):
 
-| Plan Name          | Daily Requests | Monthly Price  |
+| Api Plan Name          | Daily Requests | Monthly Price  |
 |--------------------|----------------|----------------|
-| Free Plan          | 1,000          | ₹0             |
-| Basic Plan         | 5,000          | ₹50            |
-| Standard Plan      | 10,000         | ₹50            |
-| Pro Plan           | 15,000         | ₹75            |
-| Entriprise Plan    | 20,000         | ₹100           |
-| Mega Plan          | 50,000         | ₹250           |
+| Month Plan          | 5,000          | ₹100          |
 
 4. **Billing & Renewal**:
    - Manage everything through the dashboard
@@ -159,7 +154,7 @@ The Aviax Music Bot offers a range of commands to enhance your music listening e
 | `/stop`                 | Stop the bot and clear the queue.           |
 | `/queue`                | Display the list of songs in the queue.     |
 
-For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBot).
+For a full list of commands, use `/help` in [telegram](https://t.me/venomumusicBot).
 
 ---
 
