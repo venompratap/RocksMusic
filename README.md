@@ -122,7 +122,7 @@ env
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/venompratap/VenomMusic && cd AviaxMusic
    ```
 6. **Install Requirements**
    ```bash
