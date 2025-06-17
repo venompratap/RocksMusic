@@ -39,8 +39,8 @@ If you do not want to deal with YouTube restrictions, you can rely on our API fo
 
 You can now generate and manage your API keys through our official dashboard — no more Telegram DMs required!
 
-[![API Dashboard](https://img.shields.io/badge/Visit-Dashboard-black?style=for-the-badge&logo=vercel)](https://panel.thequickearn.xyz)
-[![API Community](https://img.shields.io/badge/Join-API%20Community-green?style=for-the-badge&logo=telegram)](https://t.me/+DXGe6UE90y01NDVl)
+[![API Dashboard](https://img.shields.io/badge/VenomHOST-black?style=for-the-badge&logo=vercel)](https://venomhost.in/)
+[![API Community](https://img.shields.io/badge/Join-API%20Community-green?style=for-the-badge&logo=telegram)](https://t.me/venompratap)
 [![Contact Venom](https://img.shields.io/badge/DM-@RahulTC-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/venom_pratap)
 
 #### 🛠️ Steps to Get Started:
@@ -168,10 +168,10 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBo
 Stay updated with the latest features and improvements to Aviax Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/Venompratap">
+  <a href="https://telegram.me/Venompratapchat">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/venompratap_chat">
+  <a href="https://telegram.me/venompratap">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
