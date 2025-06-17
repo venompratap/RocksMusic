@@ -17,12 +17,13 @@
 
 <p align="center">
   <a href="https://venomhost.in/">
-    <img src="https://img.shields.io/badge/Cheapest%20Web%20Hosting-0A0A23?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cheapest Web Hosting">
+    <img src="https://img.shields.io/badge/Cheapest%20Web%20Hosting-1A237E?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cheapest Web Hosting">
   </a>
   <a href="https://t.me/venom_pratap">
     <img src="https://img.shields.io/badge/Contact%20Owner-2E64FE?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Owner">
   </a>
 </p>
+
 
 ---
 
