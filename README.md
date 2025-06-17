@@ -196,5 +196,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Thanks to all the contributors, supporters, and users of the Venom Music Bot. Your feedback and support keep us going!
-- [Venom Music Bot](https://github.com/TeamYukki/Venomumusicbot) and [VenomMusic](https://github.com/Venompratap/Venommusic) For their Source Codes.
+- [Venom Music Bot](https://github.com/Venompratap/Venomumusicbot) and [VenomMusic](https://github.com/Venompratap/Venommusic) For their Source Codes.
 - for invaluable assistance in resolving the IP ban issue.
