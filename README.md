@@ -112,7 +112,7 @@ You can now generate and manage your API keys through our official dashboard —
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/venompratap/VenomMusic && cd VenomMusic
    ```
 6. **Install Requirements**
    ```bash
