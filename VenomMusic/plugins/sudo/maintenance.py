@@ -1,9 +1,9 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from AviaxMusic import app
-from AviaxMusic.misc import SUDOERS
-from AviaxMusic.utils.database import (
+from VenomMusic import app
+from VenomMusic.misc import SUDOERS
+from VenomMusic.utils.database import (
     get_lang,
     is_maintenance,
     maintenance_off,

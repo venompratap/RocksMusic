@@ -3,11 +3,11 @@ from datetime import datetime
 from pyrogram import filters
 from pyrogram.types import Message
 
-from AviaxMusic import app
-from AviaxMusic.core.call import Aviax
-from AviaxMusic.utils import bot_sys_stats
-from AviaxMusic.utils.decorators.language import language
-from AviaxMusic.utils.inline import supp_markup
+from VenomMusic import app
+from VenomMusic.core.call import Aviax
+from VenomMusic.utils import bot_sys_stats
+from VenomMusic.utils.decorators.language import language
+from VenomMusic.utils.inline import supp_markup
 from config import BANNED_USERS, PING_IMG_URL
 
 

@@ -4,17 +4,17 @@ from pyrogram import filters
 from pyrogram.enums import ChatMembersFilter
 from pyrogram.errors import FloodWait
 
-from AviaxMusic import app
-from AviaxMusic.misc import SUDOERS
-from AviaxMusic.utils.database import (
+from VenomMusic import app
+from VenomMusic.misc import SUDOERS
+from VenomMusic.utils.database import (
     get_active_chats,
     get_authuser_names,
     get_client,
     get_served_chats,
     get_served_users,
 )
-from AviaxMusic.utils.decorators.language import language
-from AviaxMusic.utils.formatters import alpha_to_int
+from VenomMusic.utils.decorators.language import language
+from VenomMusic.utils.formatters import alpha_to_int
 from config import adminlist
 
 IS_BROADCASTING = False
@@ -178,7 +178,7 @@ async def braodcast_message(client, message, _):
     if "-assistant" in message.text:
         aw = await message.reply_text(_["broad_5"])
         text = _["broad_6"]
-        from AviaxMusic.core.userbot import assistants
+        from VenomMusic.core.userbot import assistants
 
         for num in assistants:
             sent = 0

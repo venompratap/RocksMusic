@@ -4,10 +4,10 @@ from pyrogram import filters
 from pyrogram.errors import FloodWait
 from pyrogram.types import Message
 
-from AviaxMusic import app
-from AviaxMusic.misc import SUDOERS
-from AviaxMusic.utils import get_readable_time
-from AviaxMusic.utils.database import (
+from VenomMusic import app
+from VenomMusic.misc import SUDOERS
+from VenomMusic.utils import get_readable_time
+from VenomMusic.utils.database import (
     add_banned_user,
     get_banned_count,
     get_banned_users,
@@ -15,8 +15,8 @@ from AviaxMusic.utils.database import (
     is_banned_user,
     remove_banned_user,
 )
-from AviaxMusic.utils.decorators.language import language
-from AviaxMusic.utils.extraction import extract_user
+from VenomMusic.utils.decorators.language import language
+from VenomMusic.utils.extraction import extract_user
 from config import BANNED_USERS
 
 

@@ -6,12 +6,12 @@ from pyrogram.errors import FloodWait
 from pyrogram.types import CallbackQuery, InputMediaPhoto, Message
 
 import config
-from AviaxMusic import app
-from AviaxMusic.misc import db
-from AviaxMusic.utils import AviaxBin, get_channeplayCB, seconds_to_min
-from AviaxMusic.utils.database import get_cmode, is_active_chat, is_music_playing
-from AviaxMusic.utils.decorators.language import language, languageCB
-from AviaxMusic.utils.inline import queue_back_markup, queue_markup
+from VenomMusic import app
+from VenomMusic.misc import db
+from VenomMusic.utils import AviaxBin, get_channeplayCB, seconds_to_min
+from VenomMusic.utils.database import get_cmode, is_active_chat, is_music_playing
+from VenomMusic.utils.decorators.language import language, languageCB
+from VenomMusic.utils.inline import queue_back_markup, queue_markup
 from config import BANNED_USERS
 
 basic = {}

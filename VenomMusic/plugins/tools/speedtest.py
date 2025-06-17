@@ -4,9 +4,9 @@ import speedtest
 from pyrogram import filters
 from pyrogram.types import Message
 
-from AviaxMusic import app
-from AviaxMusic.misc import SUDOERS
-from AviaxMusic.utils.decorators.language import language
+from VenomMusic import app
+from VenomMusic.misc import SUDOERS
+from VenomMusic.utils.decorators.language import language
 
 
 def testspeed(m, _):

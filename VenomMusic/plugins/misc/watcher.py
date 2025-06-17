@@ -1,8 +1,8 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from AviaxMusic import app
-from AviaxMusic.core.call import Aviax
+from VenomMusic import app
+from VenomMusic.core.call import Aviax
 
 welcome = 20
 close = 30

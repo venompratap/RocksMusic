@@ -1,8 +1,8 @@
-from AviaxMusic.core.bot import Aviax
-from AviaxMusic.core.dir import dirr
-from AviaxMusic.core.git import git
-from AviaxMusic.core.userbot import Userbot
-from AviaxMusic.misc import dbb, heroku
+from VenomMusic.core.bot import Aviax
+from VenomMusic.core.dir import dirr
+from VenomMusic.core.git import git
+from VenomMusic.core.userbot import Userbot
+from VenomMusic.misc import dbb, heroku
 
 from .logging import LOGGER
 

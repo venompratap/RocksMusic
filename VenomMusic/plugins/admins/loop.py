@@ -1,10 +1,10 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from AviaxMusic import app
-from AviaxMusic.utils.database import get_loop, set_loop
-from AviaxMusic.utils.decorators import AdminRightsCheck
-from AviaxMusic.utils.inline import close_markup
+from VenomMusic import app
+from VenomMusic.utils.database import get_loop, set_loop
+from VenomMusic.utils.decorators import AdminRightsCheck
+from VenomMusic.utils.inline import close_markup
 from config import BANNED_USERS
 
 
