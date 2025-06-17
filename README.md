@@ -86,17 +86,8 @@ env
 
 ---
 
-<h2 align="center">🚀 One-Click Deploy to Heroku</h2>
-
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/venompratap/VenomMusic">
-    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Click the button above to instantly deploy Venom Music Bot on Heroku</i>
-</p>
+## 🚀 Deploy on Heroku 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/venompratap/VenomMusic)
 
 
 ---
