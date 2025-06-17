@@ -1,4 +1,4 @@
-from VenomMusic.core.bot import Aviax
+from VenomMusic.core.bot import Venom
 from VenomMusic.core.dir import dirr
 from VenomMusic.core.git import git
 from VenomMusic.core.userbot import Userbot
@@ -11,7 +11,7 @@ git()
 dbb()
 heroku()
 
-app = Aviax()
+app = Venom()
 userbot = Userbot()
 
 

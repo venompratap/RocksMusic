@@ -6,12 +6,12 @@ from pyrogram.types import InlineKeyboardMarkup
 
 import config
 from VenomMusic import Carbon, YouTube, app
-from VenomMusic.core.call import Aviax
+from VenomMusic.core.call import Venom
 from VenomMusic.misc import db
 from VenomMusic.utils.database import add_active_video_chat, is_active_chat
 from VenomMusic.utils.exceptions import AssistantErr
 from VenomMusic.utils.inline import aq_markup, close_markup, stream_markup
-from VenomMusic.utils.pastebin import AviaxBin
+from VenomMusic.utils.pastebin import VenomBin
 from VenomMusic.utils.stream.queue import put_queue, put_queue_index
 from VenomMusic.utils.thumbnails import gen_thumb
 
@@ -32,7 +32,7 @@ async def stream(
     if not result:
         return
     if forceplay:
-        await Aviax.force_stop_stream(chat_id)
+        await Venom.force_stop_stream(chat_id)
     if streamtype == "playlist":
         msg = f"{_['play_19']}\n\n"
         count = 0
@@ -79,7 +79,7 @@ async def stream(
                     )
                 except:
                     raise AssistantErr(_["play_14"])
-                await Aviax.join_call(
+                await Venom.join_call(
                     chat_id,
                     original_chat_id,
                     file_path,
@@ -116,7 +116,7 @@ async def stream(
         if count == 0:
             return
         else:
-            link = await AviaxBin(msg)
+            link = await VenomBin(msg)
             lines = msg.count("\n")
             if lines >= 17:
                 car = os.linesep.join(msg.split(os.linesep)[:17])
@@ -173,7 +173,7 @@ async def stream(
         else:
             if not forceplay:
                 db[chat_id] = []
-            await Aviax.join_call(
+            await Venom.join_call(
                 chat_id,
                 original_chat_id,
                 file_path,
@@ -233,7 +233,7 @@ async def stream(
         else:
             if not forceplay:
                 db[chat_id] = []
-            await Aviax.join_call(chat_id, original_chat_id, file_path, video=None)
+            await Venom.join_call(chat_id, original_chat_id, file_path, video=None)
             await put_queue(
                 chat_id,
                 original_chat_id,
@@ -285,7 +285,7 @@ async def stream(
         else:
             if not forceplay:
                 db[chat_id] = []
-            await Aviax.join_call(chat_id, original_chat_id, file_path, video=status)
+            await Venom.join_call(chat_id, original_chat_id, file_path, video=status)
             await put_queue(
                 chat_id,
                 original_chat_id,
@@ -341,7 +341,7 @@ async def stream(
             n, file_path = await YouTube.video(link)
             if n == 0:
                 raise AssistantErr(_["str_3"])
-            await Aviax.join_call(
+            await Venom.join_call(
                 chat_id,
                 original_chat_id,
                 file_path,
@@ -399,7 +399,7 @@ async def stream(
         else:
             if not forceplay:
                 db[chat_id] = []
-            await Aviax.join_call(
+            await Venom.join_call(
                 chat_id,
                 original_chat_id,
                 link,

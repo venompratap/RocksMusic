@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from VenomMusic import YouTube, app
-from VenomMusic.core.call import Aviax
+from VenomMusic.core.call import Venom
 from VenomMusic.misc import db
 from VenomMusic.utils import AdminRightsCheck, seconds_to_min
 from VenomMusic.utils.inline import close_markup
@@ -56,7 +56,7 @@ async def seek_comm(cli, message: Message, _, chat_id):
     if "index_" in file_path:
         file_path = playing[0]["vidid"]
     try:
-        await Aviax.seek_stream(
+        await Venom.seek_stream(
             chat_id,
             file_path,
             seconds_to_min(to_seek),

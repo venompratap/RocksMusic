@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from VenomMusic import app
-from VenomMusic.core.call import Aviax
+from VenomMusic.core.call import Venom
 from VenomMusic.misc import SUDOERS, db
 from VenomMusic.utils import AdminRightsCheck
 from VenomMusic.utils.database import is_active_chat, is_nonadmin_chat
@@ -94,7 +94,7 @@ async def del_back_playlist(client, CallbackQuery, _):
         text=_["admin_32"].format(CallbackQuery.from_user.mention),
     )
     try:
-        await Aviax.speedup_stream(
+        await Venom.speedup_stream(
             chat_id,
             file_path,
             speed,

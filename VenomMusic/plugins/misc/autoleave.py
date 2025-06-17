@@ -5,7 +5,7 @@ from pytgcalls.exceptions import GroupCallNotFound
 import config
 from VenomMusic import app
 from VenomMusic.misc import db
-from VenomMusic.core.call import Aviax, autoend, counter
+from VenomMusic.core.call import Venom, autoend, counter
 from VenomMusic.utils.database import get_client, set_loop, is_active_chat, is_autoend, is_autoleave
 import logging
 
@@ -56,7 +56,7 @@ async def auto_end():
             nocall = False
             for chat_id in chatss:
                 try:
-                    users = len(await Aviax.call_listeners(chat_id))
+                    users = len(await Venom.call_listeners(chat_id))
                 except GroupCallNotFound:
                     users = 1
                     nocall = True
@@ -71,7 +71,7 @@ async def auto_end():
                     except Exception:
                         pass
                     try:
-                        await Aviax.stop_stream(chat_id)
+                        await Venom.stop_stream(chat_id)
                     except Exception:
                         pass
                     try:
