@@ -41,7 +41,7 @@ You can now generate and manage your API keys through our official dashboard —
 
 [![API Dashboard](https://img.shields.io/badge/VenomHOST-black?style=for-the-badge&logo=vercel)](https://venomhost.in/)
 [![API Community](https://img.shields.io/badge/Join-API%20Community-green?style=for-the-badge&logo=telegram)](https://t.me/venompratap)
-[![Contact Venom](https://img.shields.io/badge/DM-@RahulTC-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/venom_pratap)
+[![Contact Venom](https://img.shields.io/badge/DM-@Venom-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/venom_pratap)
 
 #### 🛠️ Steps to Get Started:
 
