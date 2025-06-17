@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Venom Music🎵</h1>
 
 <p align="center">
-  <img src="https://envs.sh/XsT.jpg" alt="Aviax Music Logo" width="600" height="150">
+  <img src="https://envs.sh/XsT.jpg" alt="Venom Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@ You can now generate and manage your API keys through our official dashboard —
 
 ### 🛠 Commands & Usage
 
-The Aviax Music Bot offers a range of commands to enhance your music listening experience on Telegram:
+The Venom Music Bot offers a range of commands to enhance your music listening experience on Telegram:
 
 | Command                 | Description                                 |
 |-------------------------|---------------------------------------------|
@@ -160,7 +160,7 @@ For a full list of commands, use `/help` in [telegram](https://t.me/venomumusicB
 
 ### 🔄 Updates & Support
 
-Stay updated with the latest features and improvements to Aviax Music Bot:
+Stay updated with the latest features and improvements to Venom Music Bot:
 
 <p align="center">
   <a href="https://telegram.me/Venompratapchat">
@@ -175,7 +175,7 @@ Stay updated with the latest features and improvements to Aviax Music Bot:
 
 ### 🤝 Contributing
 
-We welcome contributions to the Aviax Music Bot project. If you'd like to contribute, please follow these steps:
+We welcome contributions to the Venom Music Bot project. If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch with a meaningful name.
@@ -195,6 +195,6 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ### 🙏 Acknowledgements
 
-Thanks to all the contributors, supporters, and users of the Aviax Music Bot. Your feedback and support keep us going!
+Thanks to all the contributors, supporters, and users of the Venom Music Bot. Your feedback and support keep us going!
 - [Venom Music Bot](https://github.com/TeamYukki/Venomumusicbot) and [VenomMusic](https://github.com/Venompratap/Venommusic) For their Source Codes.
 - for invaluable assistance in resolving the IP ban issue.
