@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠 Fix for YouTube Blocking VPS IPs
+### 🛠 Fixed for YouTube Blocking VPS IPs
 
 Due to YouTube blocking VPS IPs drastically, we have implemented a fix. Follow the steps below:
 
@@ -40,25 +40,15 @@ If you do not want to deal with YouTube restrictions, you can rely on our API fo
 You can now generate and manage your API keys through our official dashboard — no more Telegram DMs required!
 
 [![API Dashboard](https://img.shields.io/badge/VenomHOST-black?style=for-the-badge&logo=vercel)](https://venomhost.in/)
-[![API Community](https://img.shields.io/badge/Join-API%20Community-green?style=for-the-badge&logo=telegram)](https://t.me/venompratap)
 [![Contact Venom](https://img.shields.io/badge/DM-@Venom-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/venom_pratap)
 
-#### 🛠️ Steps to Get Started:
-
-1. **Sign Up**: Visit the dashboard and create an account with your email.
-2. **Free Plan**: All new users receive a **Free Plan** with:
-   - 🔁 1,000 daily requests
-   - 🗓️ Valid for 30 days
-3. **Upgrade Plans**: Choose a higher daily limit plan below (INR ₹ / month):
-
+#### 🛠️  Api For Music bot
 | Api Plan Name          | Daily Requests | Monthly Price  |
 |--------------------|----------------|----------------|
 | Month Plan          | 5,000          | ₹100          |
 
-4. **Billing & Renewal**:
-   - Manage everything through the dashboard
-   - Extend key validity or upgrade instantly
-5. **Integration**:
+
+ **Integration**:
    - Copy your API key and add it to your .env or config file:
      
 env
