@@ -15,30 +15,6 @@
 
 ---
 
-### 🛠 Fixed for YouTube Blocking VPS IPs
-
-Due to YouTube blocking VPS IPs drastically, we have implemented a fix. Follow the steps below:
-
-1. **Join our Support Group**: Type #script in our [support group](https://t.me/Venompratapchat) to get the necessary script.
-2. **Run the Script**: Run the downloaded script on your Windows Desktop Through VS Code or any other Software to generate cookies.
-3. **Fork the Repository**: Fork this repository to your GitHub account.
-4. **Add Cookies**: Paste the generated cookies into the cookies folder in your forked repository.
-5. **Deploy the Bot**: Continue with the setup instructions as outlined above.
-
-This process will allow you to bypass the YouTube restrictions and ensure smooth operation of the bot.
-
----
-
-## 🎵 Using the API for Audio Streaming
-
-If you do not want to deal with YouTube restrictions, you can rely on our API for audio streaming. The API allows you to fetch audio directly without needing cookies, making the process simpler and more reliable.
-
----
-
-### 🔑 How to Get an API Key
-
-You can now generate and manage your API keys through our official dashboard — no more Telegram DMs required!
-
 [![API Dashboard](https://img.shields.io/badge/VenomHOST-black?style=for-the-badge&logo=vercel)](https://venomhost.in/)
 [![Contact Venom](https://img.shields.io/badge/DM-@Venom-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/venom_pratap)
 
