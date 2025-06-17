@@ -15,29 +15,21 @@
 
 ---
 
-[![API Dashboard](https://img.shields.io/badge/VenomHOST-black?style=for-the-badge&logo=vercel)](https://venomhost.in/)
-[![Contact Venom](https://img.shields.io/badge/DM-@Venom-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/venom_pratap)
+[![Cheapest Web Hosting](https://img.shields.io/badge/Cheapest%20Web%20Hosting-black?style=for-the-badge&logo=vercel)](https://venomhost.in/)
+[![Contact Owner](https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/venom_pratap)
+
+---
 
 #### 🛠️  Api For Music bot
 | Api Plan Name          | Daily Requests | Monthly Price  |
 |--------------------|----------------|----------------|
 | Month Plan          | 5,000          | ₹100          |
-
-
- **Integration**:
-   - Copy your API key and add it to your .env or config file:
-     
-env
-     API_KEY=your-api-key-here
-
-
 ---
 
 ### 📌 Important Notes About API Usage
 
 - 🔄 **Daily Reset**: Request limits reset at midnight (IST) every day.
 - 🎵 **Audio-Only API**: Video support requires cookies (see YouTube section above).
-- 💬 **Community Support**: For API-specific help, join the [API Community Group](https://t.me/venompratapchat)
 
 ---
 
