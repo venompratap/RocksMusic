@@ -19,7 +19,7 @@
 
 Due to YouTube blocking VPS IPs drastically, we have implemented a fix. Follow the steps below:
 
-1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/NexGenSpam) to get the necessary script.
+1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/Venompratapchat) to get the necessary script.
 2. **Run the Script**: Run the downloaded script on your Windows Desktop Through VS Code or any other Software to generate cookies.
 3. **Fork the Repository**: Fork this repository to your GitHub account.
 4. **Add Cookies**: Paste the generated cookies into the `cookies` folder in your forked repository.
@@ -41,7 +41,7 @@ You can now generate and manage your API keys through our official dashboard —
 
 [![API Dashboard](https://img.shields.io/badge/Visit-Dashboard-black?style=for-the-badge&logo=vercel)](https://panel.thequickearn.xyz)
 [![API Community](https://img.shields.io/badge/Join-API%20Community-green?style=for-the-badge&logo=telegram)](https://t.me/+DXGe6UE90y01NDVl)
-[![Contact Rahul](https://img.shields.io/badge/DM-@RahulTC-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/ItzRahul)
+[![Contact Venom](https://img.shields.io/badge/DM-@RahulTC-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/venom_pratap)
 
 #### 🛠️ Steps to Get Started:
 
